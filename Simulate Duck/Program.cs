@@ -9,4 +9,8 @@ namespace Simulate_Duck
             Console.WriteLine("Hello World!");
         }
     }
+    class Duck
+    {
+
+    }
 }
